@@ -2,6 +2,14 @@
 
 [![Deploy to Bluemix](https://bluemix.net/deploy/button.svg)](https://bluemix.net/deploy?repository=https://github.com/AnthonyAmanse/container-service-gitlab-sample)
 
+> NOTE: Button WIP.
+> Prereq: create your own namespace for container registry
+> ```bash
+> cf ic namespace set <namespace-name>
+> or
+> bx ic namespace-set <namespace-name>
+> ```
+
 # GitLab deployment on Bluemix Container Service
 
 ## Overview
