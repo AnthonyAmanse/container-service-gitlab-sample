@@ -9,6 +9,7 @@
 > or
 > bx ic namespace-set <namespace-name>
 > ```
+> And stop any running containers.
 
 # GitLab deployment on Bluemix Container Service
 
